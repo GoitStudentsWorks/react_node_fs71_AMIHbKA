@@ -14,7 +14,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <I18nextProvider i18n={i18n}>
       <Provider store={store}>
         <PersistGate loading={null} persistor={persistor}>
-          <BrowserRouter basename="/goose-track-react-project">
+          <BrowserRouter basename="/react_node_fs71_AMIHbKA">
             <App />
           </BrowserRouter>
         </PersistGate>
